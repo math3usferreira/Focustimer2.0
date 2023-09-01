@@ -21,7 +21,7 @@ Nesse projeto foram utilizados vários temas:
 
 A aplicação do FocusTimer 2.0 explora o conceito de estados para controlar o tempo decorrido e a contagem regressiva do timer. Utilizaremos variáveis para armazenar informações importantes e atualizar dinamicamente o nosso timer.
 
-- Caso queira acessar o projeto, clique no link abaixo: 
+- Caso queira acessar o projeto, clique no ícone abaixo: 
 
   [<img alt="favicon" src="assets/favicon.svg">](https://math3usferreira.github.io/Focustimer2.0)
 
