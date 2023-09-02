@@ -23,7 +23,7 @@ A aplicação do FocusTimer 2.0 explora o conceito de estados para controlar o t
 
 - Caso queira acessar o projeto, clique no ícone abaixo: 
 
-  [<img alt="favicon" src="assets/favicon.svg">](https://math3usferreira.github.io/Focustimer2.0)
+     [<img alt="favicon" src="assets/favicon.svg">](https://math3usferreira.github.io/Focustimer2.0)
 
 
 
